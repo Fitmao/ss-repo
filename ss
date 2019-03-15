@@ -1,0 +1,21 @@
+{
+  "obfsParam" : "www.alibabacloud.com",
+  "weight" : 1552537087,
+  "title" : "高级香港线路D",
+  "host" : "47.75.112.22",
+  "ota" : false,
+  "file" : "",
+  "uuid" : "FCDBB6F1-EBC5-4AAC-AC8B-304BFBC28A2C",
+  "method" : "chacha20-ietf",
+  "flag" : "US",
+  "obfs" : "http_simple",
+  "type" : "ShadowsocksR",
+  "user" : "",
+  "protoParam" : "",
+  "tls" : false,
+  "port" : 63887,
+  "proto" : "auth_sha1_v4",
+  "password" : "VIl78n",
+  "data" : "https:\/\/poro.vip\/link\/LaqXK8eCBDLa4yOf?mu=0",
+  "ping" : 0
+}
